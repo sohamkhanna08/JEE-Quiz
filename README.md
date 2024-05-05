@@ -15,11 +15,11 @@ The user will input his name , class and section , first preference of level to 
 # 3. WORKING / FLOW OF PROGRAM :-
 User will get the option to enter his details such as name and also his first preference of level that he wishes to practise. The maximum marks of the quiz is 40. Each level will contain 10 jumbled questions of Physics , Chemistry and Mathematics . Questions may contain numeric as well as MCQ . All questions are compulsory.
 
-<u>Instruction for MCQ :- </u>
+1) Instruction for MCQ :-
 Each question has 4 choices (A), (B), (C) and (D), out of which ONLY ONE CHOICE is correct.
-<u>Instruction for NUMERIC :- </u>
+2) Instruction for NUMERIC :- 
 The answer to each question is an integer ranging from 0 to 9 (both inclusive)
-<u>Marking Scheme :- </u>
+3) Marking Scheme :-
 MCQ and NUMERIC questions :+4 for correct answer, -1 (negative marking) for incorrect
 answer.
 
